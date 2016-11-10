@@ -43,7 +43,8 @@ setup(
         'setuptools',
         'z3c.jbot',
         'plone.app.theming',
-        'plone.app.themingplugins',
+        'rapido.plone',
+        'plone.app.mosaic'
     ],
     extras_require={
         'test': [
