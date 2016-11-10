@@ -29,4 +29,3 @@ For *nix Setup
     cd themedev.buildout
     ./setup.sh
     bin/buildout
-
