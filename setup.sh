@@ -1,5 +1,6 @@
+#!/bin/bash
 virtualenv .
-source Scripts/activate
+source bin/activate
 pip install -r requirements.txt
 buildout bootstrap
-npm i grunt-cli -g
+sudo npm i grunt-cli -g
