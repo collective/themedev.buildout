@@ -1,0 +1,6 @@
+[report]
+include =
+    src/newsite/*
+omit =
+    */test*
+    */upgrades/*

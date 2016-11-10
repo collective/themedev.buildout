@@ -1,0 +1,5 @@
+====================
+newsite.theme
+====================
+
+User documentation
